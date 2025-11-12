@@ -10,12 +10,6 @@
 <body>
     <h1>Minhas Construções GeoGebra</h1>
     
-    <h2>Construção 1: Teorema de Pitágoras</h2>
-    <iframe src="https://www.geogebra.org/geometry/abcd1234" 
-            width="800" height="600" 
-            allowfullscreen>
-    </iframe>
-    
-    <p>Explore a construção interativa acima!</p>
+<iframe src="https://www.geogebra.org/classic/gygt434d?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 </body>
 </html>
